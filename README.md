@@ -19,3 +19,5 @@ https://drive.google.com/file/d/1SD_BEBNwT6col-6hTkwgd1dDAT-fzKwd/view?usp=shari
 5. git init
 6. dvc init
 7. dvc add data_given/winequality.csv
+7. git add .
+8. git commit -m 'first commit'
